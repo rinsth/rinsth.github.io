@@ -1,6 +1,7 @@
 # りんりん
 
-{% include toc.html html=content %}
+*
+{:toc}
 
 ## 好きな子
 
