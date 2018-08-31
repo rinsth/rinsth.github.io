@@ -1,5 +1,7 @@
 # りんりん
 
+{% include toc.html html=content %}
+
 ## 好きな子
 
 ### 白羽由希奈ちゃん
